@@ -12,7 +12,7 @@ My name is Ali Mohammadiasl and I am a third year CS student. I transferred from
 <img src="imgs/hikeIMG.jpg" height=250> <br>
 
 
-My favorite programming language has be either C++ or Python. I really like the simplicity of Python and how easy it is to use for something like Machine Learning. I also really like C++ because of its great syntax and how fast it is. Below you can find a very simple example of a deep neural network with 4 hidden layers as well as the optimize and the trainer. This code was written using the `pandas`, `numpy`, and `sklearn` libraries. 
+My favorite programming language has to be either C++ or Python. I really like the simplicity of Python and how easy it is to use for something like Machine Learning. I also really like C++ because of its great syntax and how fast it is. Below you can find a very simple example of a deep neural network with 4 hidden layers as well as the optimize and the trainer. This code was written using the `pandas`, `numpy`, and `sklearn` libraries. 
 
 ``` python
 model = Sequential()
