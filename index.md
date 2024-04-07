@@ -32,7 +32,7 @@ training = model.fit(X_train, y_train, validation_data=(X_test,y_test), epochs=1
 
 ## Hobbies
 
-I am an avid soccer enjoyer. My favorite team is <a href="https://www.manutd.com/"> Manchester United</a>. Although they, for lack of a better word, **suck**, I grew up watching them and have unfortunately been a fan for as long as I can remember. <br>
+I am an avid soccer enjoyer. My favorite team is <a href="https://www.manutd.com/"> Manchester United</a>. Although they, for lack of a better word, **suck**, I grew up watching them and have been a fan for as long as I can remember. <br>
 
 My three all time favorite players (not in any specific order) are:
 
@@ -42,7 +42,7 @@ My three all time favorite players (not in any specific order) are:
 
 > Once a red, always a red   
 
-I also really enjoy going to the gym. I am quite a nerd when it comes to bodybuilding and powerlifting as I try to optimize my workouts as much as I can by choosing the best workouts and the optimal number of sets. I learned most of knowledge from [Jeff Nippard](imgs/JeffN.jpg). <br>
+I also really enjoy going to the gym. I am quite a nerd when it comes to bodybuilding and powerlifting as I try to optimize my workouts as much as I can by choosing the best exercises, splits, and the optimal number of sets. I gained most of knowledge from [Jeff Nippard](imgs/JeffN.jpg), who is a natural science based bodybuilder/powerlifter. <br>
 
 Here are my top three favorite exercises:
 
@@ -55,7 +55,7 @@ Here are my top three favorite exercises:
 
 ## Task list
 
-Here are some goals I have that I hope to accomplish before the end of the quarter.
+Here are some goals that I hope to accomplish before the end of the quarter.
 
 - [ ]  Learn PyTorch
 - [ ]  Deadlift 405 lbs
